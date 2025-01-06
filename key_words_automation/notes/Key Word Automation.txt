@@ -1,0 +1,48 @@
+Hipóteses e Problemas
+
+H¹: Existe uma falta de precisão na escolha de palavras-chave direcionadas ao Google Ads
+H²: Os sistemas de recomendação do Google são insuficientes para a geração de tokens qualificados
+
+
+Problemas com a automação de palavras-chave:
+- Eviesamento do login (a persona será sempre neutra, ao invés de um lead)
+- Geração pouco específica de tokens
+- Variabilidade na geração de resultados
+- Demora na realização de um scrapping robusto 
+
+Como criar uma persona para a LLM:
+1. Definir o objetivo da persona: Especifique claramente a função ou tarefa que se espera que o LLM cumpra. Por exemplo, se é para a área de saúde, educação ou como avaliador, o objetivo moldará a persona.
+- Objetivo da Persona: Find the best Data Science Courses from the Google search
+
+2. Atribuir funções específicas: Determine a função que o LLM desempenhará, como juiz, médico ou professor. Essa função deve ter características e responsabilidades específicas relevantes para o contexto.
+- Função específica: You are a person who consume data scince content from Youtube, Instagram and Tiktok, but you don	't how course you want to choose, so t-you decide to type some key-words related to data science courses
+
+3. Incorporar feedback ambiental: Adapte o LLM para responder ao ambiente em que ele opera. Isso pode envolver configurações de desenvolvimento de software, ambientes de jogos, aplicativos médicos ou outros cenários específicos.
+- Feedback Ambiental: (Choose the target public) 
+
+4. Estabelecer esquemas de interpretação de papéis: Decida se o LLM funcionará como um agente único ou em um sistema multiagente. Os esquemas de agente único concentram-se em interações individuais, enquanto os esquemas de multiagentes envolvem colaboração e interação com outros LLMs.
+- Role-playing: For while is a unic agent
+
+5. Definir traços de personalidade: Use estruturas de personalidade, como BigFive ou MBTI, para imbuir o LLM de traços de personalidade consistentes que se alinham com sua função e requisitos de tarefas.
+- Personality: You are an analitical person, which likes to try several types of key-words until you find the courses that are recommended the most, 
+
+6. Desenvolver padrões de interação: Estabeleça como o LLM deve interagir com os usuários ou outros agentes, incluindo comportamentos voluntários, de conformidade e potencialmente destrutivos. Esses comportamentos devem refletir os objetivos e o ambiente da persona.
+
+
+7. Definir critérios de avaliação: Implemente métodos para avaliar o alinhamento do LLM com sua persona designada. Isso pode envolver testes de personalidade, ciclos de feedback e métricas de desempenho para garantir que o LLM se comporte como pretendido.
+
+8. Considere os aspectos éticos e de segurança: Trate das preocupações relacionadas a preconceitos, toxicidade e possível uso indevido de personas em LLMs. Devem ser implementadas salvaguardas para evitar resultados negativos.
+
+9. Utilizar técnicas de personalização: Para cenários que exijam adaptação às necessidades específicas do usuário, incorpore informações sobre o histórico do usuário e dados históricos de comportamento para adaptar as respostas de forma eficaz.
+
+10. Iterar e refinar: Atualize continuamente a persona com base no feedback, nos resultados de desempenho e nos requisitos em evolução para manter a relevância e a precisão.
+
+Informações Importantes para o Google Search
+Frase de Anúncio
+Descrições
+Link da Página
+
+Estudar Google Ads API
+Montar os slides com as informações do projeto
+Instalar o Olanma e configurar o ambiente
+

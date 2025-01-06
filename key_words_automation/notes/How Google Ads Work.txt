@@ -1,0 +1,32 @@
+How Google Ads Work?
+
+- When I search for some product with Google I receive two types of results: Ad result and Organic result
+1. Ad result means that someone pay to appear in first, second or third result.
+2. Organic result means that Google thinks that is the most relevant website for what you are searching for.
+
+The advertiser pays for every click he get in his website from Google.
+For example: he pays 1$ for every click and after 50 clicks he gets a sale, lets supose his product costs 80$, then for every 50$ payed he has a ROAS of 30$.
+
+The goal is to get as many conversions as possible by investing as little as possible in clicks per dollar.
+
+Your Price = (the ad rank of the person below you) / (your quality score + $0.01)
+
+What is Quality Score?
+- Quality Score is defined by 3 aspects:
+1. Landing Page Experience
+ - How long are people staying on the page?
+ - Are they scrolling?
+ - Are they click on things?
+2. Ad relevance
+ - Are your website relevant for what people are looking for?
+ - Have your ad the exact keyword that people are looking for?
+3. Expected CTR (Click-Through Rate)
+ - Are people clicking in your ads?
+>>> Those metrics shows Google that people are actually finding what they're looking for. Google only makes money when people click on your ads
+
+We also has the Ad Rank, we can calculate this with the following formula:
+Ad Rank = Max BID * Quality Score
+
+Obs: Max BID = Maximum cost-per-click offer limit          
+
+Besides that, It's possible to add a negative keywords list, which means that the ad of the advertiser will not showned when a person types that keywords.
